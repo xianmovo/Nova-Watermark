@@ -1,0 +1,12 @@
+# 只提交源码：依赖与打包产物都不进仓库
+node_modules/
+dist/
+release/
+out/
+*.exe
+*.dmg
+*.AppImage
+*.snap
+*.log
+.DS_Store
+Thumbs.db

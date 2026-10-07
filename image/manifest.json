@@ -1,0 +1,714 @@
+[
+  {
+    "file": "arri.png",
+    "brand": "ARRI",
+    "category": "camera",
+    "source": "Wikimedia Commons: ARRI Arnold & Richter Cine Technik logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AARRI_Arnold_%26_Richter_Cine_Technik_logo.svg",
+    "bytes": 76433
+  },
+  {
+    "file": "blackmagic.png",
+    "brand": "Blackmagic Design",
+    "category": "camera",
+    "source": "Simple Icons (simple-icons.org)",
+    "sourceUrl": "https://simpleicons.org/",
+    "bytes": 12258
+  },
+  {
+    "file": "bolex.png",
+    "brand": "Bolex",
+    "category": "camera",
+    "source": "Wikimedia Commons: BolexLogotype.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABolexLogotype.png",
+    "bytes": 3351
+  },
+  {
+    "file": "canon.png",
+    "brand": "Canon",
+    "category": "camera",
+    "source": "Wikimedia Commons: Canon wordmark.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACanon_wordmark.svg",
+    "bytes": 82803
+  },
+  {
+    "file": "canon-eos.png",
+    "brand": "Canon EOS",
+    "category": "camera",
+    "source": "Wikimedia Commons: Canon EOS.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACanon_EOS.svg",
+    "bytes": 42866
+  },
+  {
+    "file": "casio.png",
+    "brand": "Casio",
+    "category": "camera",
+    "source": "Wikimedia Commons: Logo CASIO.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALogo_CASIO.svg",
+    "bytes": 76005
+  },
+  {
+    "file": "contax.png",
+    "brand": "Contax",
+    "category": "camera",
+    "source": "Wikimedia Commons: Logotipo da Contax.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALogotipo_da_Contax.svg",
+    "bytes": 34807
+  },
+  {
+    "file": "dji.png",
+    "brand": "DJI",
+    "category": "camera",
+    "source": "Wikimedia Commons: DJI Innovations logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADJI_Innovations_logo.svg",
+    "bytes": 35834
+  },
+  {
+    "file": "epson.png",
+    "brand": "Epson",
+    "category": "camera",
+    "source": "Wikimedia Commons: Epson logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEpson_logo.svg",
+    "bytes": 76594
+  },
+  {
+    "file": "fujifilm.png",
+    "brand": "Fujifilm",
+    "category": "camera",
+    "source": "Wikimedia Commons: Fujifilm logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFujifilm_logo.svg",
+    "bytes": 33262
+  },
+  {
+    "file": "gitzo.png",
+    "brand": "Gitzo",
+    "category": "camera",
+    "source": "Wikimedia Commons: Gitzo-vector-logo.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGitzo-vector-logo.png",
+    "bytes": 4557
+  },
+  {
+    "file": "godox.png",
+    "brand": "Godox",
+    "category": "camera",
+    "source": "Wikimedia Commons: Godox.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGodox.svg",
+    "bytes": 74079
+  },
+  {
+    "file": "gopro.png",
+    "brand": "GoPro",
+    "category": "camera",
+    "source": "Wikimedia Commons: GoPro logo light.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGoPro_logo_light.svg",
+    "bytes": 28069
+  },
+  {
+    "file": "hasselblad.png",
+    "brand": "Hasselblad",
+    "category": "camera",
+    "source": "Wikimedia Commons: Hasselblad logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AHasselblad_logo.svg",
+    "bytes": 47267
+  },
+  {
+    "file": "insta360.png",
+    "brand": "Insta360",
+    "category": "camera",
+    "source": "Wikimedia Commons: Insta360 logo (transparent).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AInsta360_logo_(transparent).svg",
+    "bytes": 62802
+  },
+  {
+    "file": "kodak.png",
+    "brand": "Kodak",
+    "category": "camera",
+    "source": "Wikimedia Commons: Eastman Kodak Company logo (2016).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AEastman_Kodak_Company_logo_(2016).svg",
+    "bytes": 22449
+  },
+  {
+    "file": "kodak-wordmark.png",
+    "brand": "Kodak (wordmark)",
+    "category": "camera",
+    "source": "Wikimedia Commons: Kodak logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKodak_logo.svg",
+    "bytes": 79363
+  },
+  {
+    "file": "kyocera.png",
+    "brand": "Kyocera",
+    "category": "camera",
+    "source": "Wikimedia Commons: Kyocera logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AKyocera_logo.svg",
+    "bytes": 48071
+  },
+  {
+    "file": "laowa.png",
+    "brand": "Laowa (Venus Optics)",
+    "category": "camera",
+    "source": "Wikimedia Commons: Laowa logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALaowa_logo.svg",
+    "bytes": 83882
+  },
+  {
+    "file": "leica.png",
+    "brand": "Leica",
+    "category": "camera",
+    "source": "Wikimedia Commons: Leica Camera.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALeica_Camera.svg",
+    "bytes": 43053
+  },
+  {
+    "file": "lumix.png",
+    "brand": "LUMIX",
+    "category": "camera",
+    "source": "Wikimedia Commons: Lumix logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALumix_logo.svg",
+    "bytes": 30922
+  },
+  {
+    "file": "mamiya.png",
+    "brand": "Mamiya",
+    "category": "camera",
+    "source": "Wikimedia Commons: Mamiya logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMamiya_logo.svg",
+    "bytes": 62149
+  },
+  {
+    "file": "manfrotto.png",
+    "brand": "Manfrotto",
+    "category": "camera",
+    "source": "Wikimedia Commons: Manfrotto Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AManfrotto_Logo.svg",
+    "bytes": 57079
+  },
+  {
+    "file": "minolta.png",
+    "brand": "Minolta",
+    "category": "camera",
+    "source": "Wikimedia Commons: Minolta Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMinolta_Logo.svg",
+    "bytes": 50285
+  },
+  {
+    "file": "nikon.png",
+    "brand": "Nikon",
+    "category": "camera",
+    "source": "Wikimedia Commons: Nikon Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANikon_Logo.svg",
+    "bytes": 94233
+  },
+  {
+    "file": "olympus.png",
+    "brand": "Olympus",
+    "category": "camera",
+    "source": "Wikimedia Commons: Olympus Corporation logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AOlympus_Corporation_logo.svg",
+    "bytes": 88308
+  },
+  {
+    "file": "om-system.png",
+    "brand": "OM System",
+    "category": "camera",
+    "source": "Wikimedia Commons: OM Digital Solutions Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AOM_Digital_Solutions_Logo.svg",
+    "bytes": 65006
+  },
+  {
+    "file": "panasonic.png",
+    "brand": "Panasonic",
+    "category": "camera",
+    "source": "Wikimedia Commons: Panasonic logo (Blue).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APanasonic_logo_(Blue).svg",
+    "bytes": 69543
+  },
+  {
+    "file": "pentax.png",
+    "brand": "Pentax",
+    "category": "camera",
+    "source": "Wikimedia Commons: Pentax Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APentax_Logo.svg",
+    "bytes": 41398
+  },
+  {
+    "file": "phase-one.png",
+    "brand": "Phase One",
+    "category": "camera",
+    "source": "Wikimedia Commons: Phase one logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APhase_one_logo.svg",
+    "bytes": 60257
+  },
+  {
+    "file": "polaroid.png",
+    "brand": "Polaroid",
+    "category": "camera",
+    "source": "Wikimedia Commons: Polaroid Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APolaroid_Logo.svg",
+    "bytes": 82014
+  },
+  {
+    "file": "profoto.png",
+    "brand": "Profoto",
+    "category": "camera",
+    "source": "Wikimedia Commons: Profoto logo.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AProfoto_logo.png",
+    "bytes": 9532
+  },
+  {
+    "file": "red.png",
+    "brand": "RED Digital Cinema",
+    "category": "camera",
+    "source": "Wikimedia Commons: Red Digital Cinema logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARed_Digital_Cinema_logo.svg",
+    "bytes": 22869
+  },
+  {
+    "file": "ricoh.png",
+    "brand": "Ricoh",
+    "category": "camera",
+    "source": "Wikimedia Commons: Ricoh logo 2005.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARicoh_logo_2005.svg",
+    "bytes": 64078
+  },
+  {
+    "file": "rollei.png",
+    "brand": "Rollei",
+    "category": "camera",
+    "source": "Wikimedia Commons: Rollei-Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARollei-Logo.svg",
+    "bytes": 46721
+  },
+  {
+    "file": "samyang.png",
+    "brand": "Samyang",
+    "category": "camera",
+    "source": "Wikimedia Commons: Samyang logo.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASamyang_logo.png",
+    "bytes": 58017
+  },
+  {
+    "file": "sanyo.png",
+    "brand": "Sanyo",
+    "category": "camera",
+    "source": "Wikimedia Commons: Sanyo logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASanyo_logo.svg",
+    "bytes": 120248
+  },
+  {
+    "file": "schneider.png",
+    "brand": "Schneider Kreuznach",
+    "category": "camera",
+    "source": "Wikimedia Commons: Schneider Kreuznach Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASchneider_Kreuznach_Logo.svg",
+    "bytes": 91990
+  },
+  {
+    "file": "seven-artisans.png",
+    "brand": "7Artisans",
+    "category": "camera",
+    "source": "Wikimedia Commons: 7artisans Logo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A7artisans_Logo.jpg",
+    "bytes": 43523
+  },
+  {
+    "file": "sigma.png",
+    "brand": "Sigma",
+    "category": "camera",
+    "source": "Wikimedia Commons: SIGMA CORPORATION.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASIGMA_CORPORATION.svg",
+    "bytes": 60408
+  },
+  {
+    "file": "sinar.png",
+    "brand": "Sinar",
+    "category": "camera",
+    "source": "Wikimedia Commons: Sinar Photography logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASinar_Photography_logo.svg",
+    "bytes": 55053
+  },
+  {
+    "file": "sony.png",
+    "brand": "Sony",
+    "category": "camera",
+    "source": "Wikimedia Commons: Sony Group logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASony_Group_logo.svg",
+    "bytes": 74058
+  },
+  {
+    "file": "tamron.png",
+    "brand": "Tamron",
+    "category": "camera",
+    "source": "Wikimedia Commons: Tamron Logo 2019.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATamron_Logo_2019.svg",
+    "bytes": 52510
+  },
+  {
+    "file": "tokina.png",
+    "brand": "Tokina",
+    "category": "camera",
+    "source": "Wikimedia Commons: Tokina Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATokina_Logo.svg",
+    "bytes": 31762
+  },
+  {
+    "file": "ttartisan.png",
+    "brand": "TTArtisan",
+    "category": "camera",
+    "source": "Wikimedia Commons: TTArtisanlogo-blk@4x.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATTArtisanlogo-blk%404x.png",
+    "bytes": 13276
+  },
+  {
+    "file": "vivitar.png",
+    "brand": "Vivitar",
+    "category": "camera",
+    "source": "Wikimedia Commons: Vivitar logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVivitar_logo.svg",
+    "bytes": 41829
+  },
+  {
+    "file": "voigtlander.png",
+    "brand": "Voigtlander",
+    "category": "camera",
+    "source": "Wikimedia Commons: Voigtlaender logo blau.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVoigtlaender_logo_blau.jpg",
+    "bytes": 28455
+  },
+  {
+    "file": "yashica.png",
+    "brand": "Yashica",
+    "category": "camera",
+    "source": "Wikimedia Commons: YASHICA LOGO.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AYASHICA_LOGO.svg",
+    "bytes": 50989
+  },
+  {
+    "file": "zeiss.png",
+    "brand": "Zeiss",
+    "category": "camera",
+    "source": "Wikimedia Commons: Zeiss logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZeiss_logo.svg",
+    "bytes": 20607
+  },
+  {
+    "file": "alcatel.png",
+    "brand": "Alcatel",
+    "category": "phone",
+    "source": "Wikimedia Commons: Alcatel logo 2016.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAlcatel_logo_2016.svg",
+    "bytes": 92778
+  },
+  {
+    "file": "apple.png",
+    "brand": "Apple",
+    "category": "phone",
+    "source": "Wikimedia Commons: Apple logo black.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AApple_logo_black.svg",
+    "bytes": 11798
+  },
+  {
+    "file": "asus.png",
+    "brand": "ASUS",
+    "category": "phone",
+    "source": "Wikimedia Commons: Asus blue logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AAsus_blue_logo.svg",
+    "bytes": 55726
+  },
+  {
+    "file": "blackberry.png",
+    "brand": "BlackBerry",
+    "category": "phone",
+    "source": "Wikimedia Commons: Blackberry Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlackberry_Logo.svg",
+    "bytes": 58130
+  },
+  {
+    "file": "fairphone.png",
+    "brand": "Fairphone",
+    "category": "phone",
+    "source": "Wikimedia Commons: Fairphone logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AFairphone_logo.svg",
+    "bytes": 84725
+  },
+  {
+    "file": "galaxy.png",
+    "brand": "Samsung Galaxy",
+    "category": "phone",
+    "source": "Wikimedia Commons: Samsung Galaxy logo (\"Galaxy\" logo only).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_logo_(%22Galaxy%22_logo_only).svg",
+    "bytes": 49971
+  },
+  {
+    "file": "google.png",
+    "brand": "Google",
+    "category": "phone",
+    "source": "Wikimedia Commons: Google 2015 logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGoogle_2015_logo.svg",
+    "bytes": 89818
+  },
+  {
+    "file": "honor.png",
+    "brand": "HONOR",
+    "category": "phone",
+    "source": "Wikimedia Commons: Honor Logo (2020).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AHonor_Logo_(2020).svg",
+    "bytes": 44820
+  },
+  {
+    "file": "htc.png",
+    "brand": "HTC",
+    "category": "phone",
+    "source": "Wikimedia Commons: HTC.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AHTC.svg",
+    "bytes": 34243
+  },
+  {
+    "file": "huawei.png",
+    "brand": "Huawei",
+    "category": "phone",
+    "source": "Wikimedia Commons: Huawei wordmark.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AHuawei_wordmark.svg",
+    "bytes": 42703
+  },
+  {
+    "file": "infinix.png",
+    "brand": "Infinix",
+    "category": "phone",
+    "source": "Wikimedia Commons: Infinix logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AInfinix_logo.svg",
+    "bytes": 29145
+  },
+  {
+    "file": "iqoo.png",
+    "brand": "iQOO",
+    "category": "phone",
+    "source": "Wikimedia Commons: IQOO logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AIQOO_logo.svg",
+    "bytes": 53098
+  },
+  {
+    "file": "itel.png",
+    "brand": "itel",
+    "category": "phone",
+    "source": "Wikimedia Commons: Itel Mobile logo 2023.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AItel_Mobile_logo_2023.svg",
+    "bytes": 46991
+  },
+  {
+    "file": "lava.png",
+    "brand": "Lava",
+    "category": "phone",
+    "source": "Wikimedia Commons: Lava International.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALava_International.svg",
+    "bytes": 59971
+  },
+  {
+    "file": "lenovo.png",
+    "brand": "Lenovo",
+    "category": "phone",
+    "source": "Wikimedia Commons: Lenovo logo 2015.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALenovo_logo_2015.svg",
+    "bytes": 72404
+  },
+  {
+    "file": "lg.png",
+    "brand": "LG",
+    "category": "phone",
+    "source": "Wikimedia Commons: LG Electronics logo 2015 (english).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALG_Electronics_logo_2015_(english).svg",
+    "bytes": 123433
+  },
+  {
+    "file": "meizu.png",
+    "brand": "Meizu",
+    "category": "phone",
+    "source": "Wikimedia Commons: Meizu logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMeizu_logo.svg",
+    "bytes": 16143
+  },
+  {
+    "file": "micromax.png",
+    "brand": "Micromax",
+    "category": "phone",
+    "source": "Wikimedia Commons: Micromax logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMicromax_logo.svg",
+    "bytes": 100393
+  },
+  {
+    "file": "motorola.png",
+    "brand": "Motorola",
+    "category": "phone",
+    "source": "Wikimedia Commons: Motorola new logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AMotorola_new_logo.svg",
+    "bytes": 62673
+  },
+  {
+    "file": "nokia.png",
+    "brand": "Nokia",
+    "category": "phone",
+    "source": "Wikimedia Commons: Nokia 2023.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANokia_2023.svg",
+    "bytes": 63897
+  },
+  {
+    "file": "nothing.png",
+    "brand": "Nothing",
+    "category": "phone",
+    "source": "Wikimedia Commons: Nothing.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANothing.svg",
+    "bytes": 67547
+  },
+  {
+    "file": "nubia.png",
+    "brand": "Nubia",
+    "category": "phone",
+    "source": "Wikimedia Commons: Nubia logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ANubia_logo.svg",
+    "bytes": 58999
+  },
+  {
+    "file": "oneplus.png",
+    "brand": "OnePlus",
+    "category": "phone",
+    "source": "Wikimedia Commons: OP LU Reg 1L RGB red copy-01.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AOP_LU_Reg_1L_RGB_red_copy-01.svg",
+    "bytes": 50453
+  },
+  {
+    "file": "oppo.png",
+    "brand": "OPPO",
+    "category": "phone",
+    "source": "Wikimedia Commons: OPPO LOGO 2019.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AOPPO_LOGO_2019.svg",
+    "bytes": 79274
+  },
+  {
+    "file": "pixel.png",
+    "brand": "Google Pixel",
+    "category": "phone",
+    "source": "Wikimedia Commons: Pixel wordmark.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APixel_wordmark.svg",
+    "bytes": 43262
+  },
+  {
+    "file": "poco.png",
+    "brand": "POCO",
+    "category": "phone",
+    "source": "Wikimedia Commons: Poco Smartphone Company logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APoco_Smartphone_Company_logo.svg",
+    "bytes": 22558
+  },
+  {
+    "file": "realme.png",
+    "brand": "realme",
+    "category": "phone",
+    "source": "Wikimedia Commons: Realme logo SVG.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARealme_logo_SVG.svg",
+    "bytes": 51321
+  },
+  {
+    "file": "redmi.png",
+    "brand": "Redmi",
+    "category": "phone",
+    "source": "Wikimedia Commons: REDMI logo (red).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AREDMI_logo_(red).svg",
+    "bytes": 51479
+  },
+  {
+    "file": "rog.png",
+    "brand": "ASUS ROG",
+    "category": "phone",
+    "source": "Wikimedia Commons: ASUS ROG 2007 logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AASUS_ROG_2007_logo.svg",
+    "bytes": 81367
+  },
+  {
+    "file": "samsung.png",
+    "brand": "Samsung",
+    "category": "phone",
+    "source": "Wikimedia Commons: Samsung wordmark.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASamsung_wordmark.svg",
+    "bytes": 82743
+  },
+  {
+    "file": "sharp.png",
+    "brand": "Sharp",
+    "category": "phone",
+    "source": "Wikimedia Commons: Logo of the Sharp Corporation.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALogo_of_the_Sharp_Corporation.svg",
+    "bytes": 58421
+  },
+  {
+    "file": "sony-ericsson.png",
+    "brand": "Sony Ericsson",
+    "category": "phone",
+    "source": "Wikimedia Commons: Sony Ericsson wordmark.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ASony_Ericsson_wordmark.svg",
+    "bytes": 47697
+  },
+  {
+    "file": "tcl.png",
+    "brand": "TCL",
+    "category": "phone",
+    "source": "Wikimedia Commons: Logo of the TCL Corporation.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ALogo_of_the_TCL_Corporation.svg",
+    "bytes": 16264
+  },
+  {
+    "file": "tecno.png",
+    "brand": "TECNO",
+    "category": "phone",
+    "source": "Wikimedia Commons: Tecno Mobile logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ATecno_Mobile_logo.svg",
+    "bytes": 33362
+  },
+  {
+    "file": "vertu.png",
+    "brand": "Vertu",
+    "category": "phone",
+    "source": "Wikimedia Commons: Vertu logo.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVertu_logo.png",
+    "bytes": 12960
+  },
+  {
+    "file": "vivo.png",
+    "brand": "vivo",
+    "category": "phone",
+    "source": "Wikimedia Commons: Vivo (China) logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AVivo_(China)_logo.svg",
+    "bytes": 56978
+  },
+  {
+    "file": "xiaomi.png",
+    "brand": "Xiaomi",
+    "category": "phone",
+    "source": "Wikimedia Commons: Xiaomi logo (2021-).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AXiaomi_logo_(2021-).svg",
+    "bytes": 19052
+  },
+  {
+    "file": "xiaomi-wordmark.png",
+    "brand": "Xiaomi (wordmark)",
+    "category": "phone",
+    "source": "Wikimedia Commons: Xiaomi logo horizontal (2021-).svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AXiaomi_logo_horizontal_(2021-).svg",
+    "bytes": 60742
+  },
+  {
+    "file": "xperia.png",
+    "brand": "Sony Xperia",
+    "category": "phone",
+    "source": "Wikimedia Commons: Xperia Logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AXperia_Logo.svg",
+    "bytes": 33714
+  },
+  {
+    "file": "zte.png",
+    "brand": "ZTE",
+    "category": "phone",
+    "source": "Wikimedia Commons: ZTE-logo.svg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AZTE-logo.svg",
+    "bytes": 36860
+  }
+]
